@@ -1,0 +1,1 @@
+# geradorsenhas2tri
